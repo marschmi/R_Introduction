@@ -90,3 +90,7 @@ A table:
 | Stuff here      | more stuff | wooo |
 | blah            | blah       | blah |
 | bla             | blah       | blah |
+
+
+we're adding a new line because we're now working on git. 
+
